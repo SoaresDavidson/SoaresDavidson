@@ -94,14 +94,14 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=soaresdavidson&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soaresdavidson&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=soaresdavidson&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub stats" /> -->
 </div>
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresdavidson&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=5" height="165" alt="Most used languages" />
-</div>
+</div> -->
 
 ###
 
