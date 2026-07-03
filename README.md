@@ -93,30 +93,18 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SoaresDavidson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SoaresDavidson&show_icons=true&locale=en&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="github stats graph" />
+  <img src="https://streak-stats.demolab.com?user=soaresdavidson&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soaresdavidson&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoaresDavidson&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=false&order=2" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresdavidson&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=5" height="165" alt="Most used languages" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SoaresDavidson&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soaresdavidson&theme=dracula&hide_border=false&radius=8" alt="GitHub activity graph" />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoaresDavidson&theme=dracula&hide_border=false&radius=8" alt="activity graph" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="780" alt="coding animation" />
-</p>
