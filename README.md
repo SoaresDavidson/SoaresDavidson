@@ -1,38 +1,122 @@
-<h1 align="left">Hi, I'm Davi Soares <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTc3NTUsIm5iZiI6MTcxNDQ5NzQ1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDE3MTczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMWRhMDNjMmM3ODEwM2Q3MTZhZWJkMGZhMzg3YTlhNDk3YjE4ZTI1YzVjM2QyZWVlZWI3YjFmOGVhNTkwOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BFKQNhKHkjBYIi26Hrxpipsh-hdlqcCVDCatMU0qG7U" alt="welcome" width="40" height="40"/></h1>
+<h1 data-importer="text" align="center">Hey, I'm Davi Soares 👋</h1>
 
-<p align="left">🌱 I’m currently studying higher education in Computer Science at Federal University of Piauí (UFPI). </p>
-
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soaresdavidson&theme=radical" alt="soaresdavidson" width="401" />
-    <img src="https://github-readme-stats.vercel.app/api?username=soaresdavidson&show_icons=true&locale=en&theme=radical" alt="soaresdavidson" width="380" />
-</div>
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soaresdavidson&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="soaresdavidson" width="300">
+<p align="center">
+  Computer Science student at <strong>Universidade Federal do Piaui (UFPI)</strong>, building backend APIs, full-stack apps, distributed systems experiments, AI projects and game prototypes.
 </p>
 
-<h3 align="left">| ‍💻 | Languages and Tools:</h3>
-<p align="left">
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f49f96180583a503365d6987c00ae5fc0db6aa002e275684a71740a891802adc/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/024f4ee030f1bf7349484356fa614cbf2a38366c70dfc5b14f50db3e8b6934b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
-    <a href="https://pytorch.org/"><img width="45" height="45" alt="pytorch_logo" src="https://github.com/user-attachments/assets/4ce77aa7-f7a1-4534-84ba-fb87ac75f607" /></a>
-    
-
-</p>
-
-<h3 align="left">| 📱 | Connect with me:</h3>
-<div align="left" dir="auto">
-  <a href="mailto:davi504r35@gmail.com"><img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/davi-soares-745776129/" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
-    <a href="https://www.instagram.com/soaresdavisousa/" rel="nofollow"><img src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
-  
-
+<div data-importer="socials" align="center">
+  <a href="mailto:davi504r35@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/davi-soares-745776129/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/soaresdavisousa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
-<br>
+###
 
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="785" height="400">
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <p>🌱 Currently studying and building with <strong>Java, Spring Boot, Ruby on Rails, React, TypeScript, Python, C and SQL</strong>.</p>
+  <p>🧠 Interested in <strong>Artificial Intelligence, Machine Learning, PyTorch, backend engineering, REST APIs, distributed systems, P2P/DHT networks and developer tooling</strong>.</p>
+  <p>🎮 Also exploring <strong>game development with Godot/GDScript</strong> and creative interactive experiences.</p>
+  <p>🚀 I like turning ideas into practical projects: APIs, dashboards, automation tools, simulations and full-stack applications.</p>
+</div>
+
+###
+
+<h2 align="center">Main Skills</h2>
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="55" alt="ruby logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="55" alt="rails logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch logo" />
+</div>
+
+###
+
+<h2 align="center">What I Enjoy Building</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Backend & APIs</strong><br />Spring Boot, Rails, REST, authentication, databases and business rules.</td>
+      <td align="center"><strong>Full-stack Apps</strong><br />React, TypeScript, Vite, clean interfaces and useful product flows.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>AI & Data</strong><br />Python, PyTorch, experiments with models, automation and applied ML.</td>
+      <td align="center"><strong>Systems & Games</strong><br />Distributed systems, DHT/P2P ideas, C fundamentals and Godot projects.</td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SoaresDavidson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoaresDavidson&show_icons=true&locale=en&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="github stats graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoaresDavidson&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=false&order=2" height="165" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=SoaresDavidson&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoaresDavidson&theme=dracula&hide_border=false&radius=8" alt="activity graph" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="780" alt="coding animation" />
 </p>
