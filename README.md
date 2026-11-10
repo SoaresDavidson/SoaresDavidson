@@ -1,7 +1,7 @@
 <h1 data-importer="text" align="center">Hey, I'm Davi Soares 👋</h1>
 
 <p align="center">
-  Computer Science student at <strong>Universidade Federal do Piaui (UFPI)</strong>, building backend APIs, full-stack apps, distributed systems experiments, AI projects and game prototypes.
+  Computer Science student at <strong>Universidade Federal do Piaui (UFPI)</strong>, working on RISC-V processors, neural networks and self-hosted tools.
 </p>
 
 <div data-importer="socials" align="center">
@@ -18,77 +18,107 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About me</h2>
 
-<div align="center">
-  <p>🌱 Currently studying and building with <strong>Java, Spring Boot, Ruby on Rails, React, TypeScript, Python, C and SQL</strong>.</p>
-  <p>🧠 Interested in <strong>Artificial Intelligence, Machine Learning, PyTorch, backend engineering, REST APIs, distributed systems, P2P/DHT networks and developer tooling</strong>.</p>
-  <p>🎮 Also exploring <strong>game development with Godot/GDScript</strong> and creative interactive experiences.</p>
-  <p>🚀 I like turning ideas into practical projects: APIs, dashboards, automation tools, simulations and full-stack applications.</p>
-</div>
+<p align="center">
+  Most of my time goes into three areas: computer architecture (RISC-V cores in Verilog and SystemVerilog), machine learning with PyTorch, and small apps I run on my own home server with Docker and Tailscale.
+</p>
+
+<p align="center">
+  I work on CachyOS with Hyprland and Neovim, manage my dotfiles with chezmoi, and use AI coding agents a lot. I write my own skills and MCP servers for them.
+</p>
 
 ###
 
-<h2 align="center">Main Skills</h2>
+<h2 align="center">Tools</h2>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="py logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="55" alt="ruby logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="55" alt="rails logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="ts logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=arch" height="50" alt="arch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="50" alt="godot logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo" />
 </div>
 
 ###
 
-<h2 align="center">What I Enjoy Building</h2>
+<h2 align="center">Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Backend & APIs</strong><br />Spring Boot, Rails, REST, authentication, databases and business rules.</td>
-      <td align="center"><strong>Full-stack Apps</strong><br />React, TypeScript, Vite, clean interfaces and useful product flows.</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>AI & Data</strong><br />Python, PyTorch, experiments with models, automation and applied ML.</td>
-      <td align="center"><strong>Systems & Games</strong><br />Distributed systems, DHT/P2P ideas, C fundamentals and Godot projects.</td>
-    </tr>
-  </table>
-</div>
+<h3>Hardware</h3>
+
+<table>
+  <tr><td><a href="https://github.com/SoaresDavidson/superscalar-riscv"><code>superscalar-riscv</code></a></td><td>Out-of-order superscalar RV32IM core in SystemVerilog, based on Shen &amp; Lipasti, with self-checking testbenches (Icarus, Verilator)</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/RV32I-pipeline"><code>RV32I-pipeline</code></a></td><td>Pipelined RISC-V processor in Verilog with a BTB and a multiplier</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/Verilog-simulator"><code>Verilog-simulator</code></a></td><td>Web interface for simulating Verilog without reading waveforms</td></tr>
+</table>
+
+<h3>AI and data</h3>
+
+<table>
+  <tr><td><a href="https://github.com/SoaresDavidson/IC-pytorch"><code>IC-pytorch</code></a></td><td>Undergraduate research on binarized neural networks: a binarized LeNet-5 in PyTorch</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/pytorch-Xnor-net"><code>pytorch-Xnor-net</code></a></td><td>XNOR-Net implementation in PyTorch</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/mobileVision"><code>mobileVision</code></a></td><td>YOLO training pipeline for road damage and litter detection, tracked with MLflow</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/falaAi"><code>falaAi</code></a></td><td>Turns Gmail newsletters into a daily pt-BR podcast with a local LLM (Ollama) and TTS (Kokoro)</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/analiseCandidatos"><code>analiseCandidatos</code></a></td><td>Piauí election candidates crossed with IBGE and PNUD indicators, using DuckDB and Jupyter</td></tr>
+</table>
+
+<h3>Self-hosted apps</h3>
+
+<table>
+  <tr><td><a href="https://github.com/SoaresDavidson/bookrats"><code>bookrats</code></a></td><td>Shared reading dashboard fed by KOReader (built-in kosync server) and Goodreads, published with Tailscale Funnel</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/leituras"><code>leituras</code></a></td><td>KOReader plugin that sends reading stats to a React dashboard backed by SQLite</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/tesla-notetaker"><code>tesla-notetaker</code></a></td><td>Voice commands that add and move cards on an Obsidian Kanban board, using local Whisper and Hyprland keybinds</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/my-servers-config"><code>my-servers-config</code></a></td><td>Docker containers and scripts for my home server</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/HermesDHT"><code>HermesDHT</code></a></td><td>Docker stack with Prowlarr and qBittorrent plus an MCP server for Claude</td></tr>
+</table>
+
+<h3>Systems and networks</h3>
+
+<table>
+  <tr><td><a href="https://github.com/SoaresDavidson/RDT-4.0"><code>RDT-4.0</code></a></td><td>Reliable data transfer protocol with a sliding window</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/EnvelopeDigital"><code>EnvelopeDigital</code></a></td><td>Digital envelope encryption app for the security course</td></tr>
+  <tr><td><a href="https://github.com/SoaresDavidson/carteiroChines"><code>carteiroChines</code></a></td><td>Chinese postman algorithm in C++</td></tr>
+</table>
 
 ###
 
